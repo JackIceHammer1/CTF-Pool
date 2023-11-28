@@ -1,3 +1,1 @@
 Use the python script to reverse engineer the dphrase.
-
-answer: lbctf{python_rev3rse_c0de}
