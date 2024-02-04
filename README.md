@@ -1,2 +1,2 @@
 # CTF-Pool
-A collection on CTF style challenges 
+A collection of CTF style challenges developed for LBC2.
