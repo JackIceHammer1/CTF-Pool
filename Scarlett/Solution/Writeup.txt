@@ -1,0 +1,8 @@
+Challenge Description:
+Participants are provided with a Python script that appears to encrypt a given phrase using a symbolic encryption technique. The script prompts the user to enter a phrase to be encrypted and a single-letter key. The encryption process involves symbolic manipulation using the SymPy library in Python.
+
+Reverse Engineering: Participants need to reverse engineer the encryption process to understand how the encryption key affects the encrypted values.
+Symbolic Analysis: Understanding how the symbolic expression and its derivative are utilized in the encryption process is crucial.
+ASCII Manipulation: Participants should pay attention to how ASCII values are manipulated during encryption.
+Reverse the Process: To decrypt the provided flag (lbctf{Pr0J3ct_Sc@rlett}), participants must reverse the encryption process using the given code or by understanding its logic.
+Flag: lbctf{Pr0J3ct_Sc@rlett}
