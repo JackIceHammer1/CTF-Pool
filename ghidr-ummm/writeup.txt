@@ -1,0 +1,7 @@
+open the file in ghidra and analyze it
+click the Decompile and then scroll through the functions to find the checkPassword functions
+in it you will see 
+  iVar1 = strcmp(param_1,"lbctf{GhidrAaAaAaAa}");
+  return iVar1 == 0;
+
+flag = lbctf{GhidrAaAaAaAa}
