@@ -1,0 +1,9 @@
+theres 2 ways to do this
+1: you can write out each hanzi character and if google translate works, it will give you "can of worms"
+
+2: put it into a steganography website
+   youll get a bunch of ciphers, but only two of them are actual ciphers
+   one is base64 and one is rot47
+   base64: Y2FuX29mXw== -> can_of_
+   rot47: H@C>D -> worms
+lbctf{can_of_worms}
