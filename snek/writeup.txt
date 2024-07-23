@@ -1,0 +1,12 @@
+There are several syntax errors in this code. Fix them, and then run the program to reveal the flag.
+- Remove one of the = signs in line 3
+- Remove the # in line 3
+- Add a comma after one of the list values in line 3 that didn't have it
+- Remove either line 4 or line 5
+- Add a second " in line 6
+- Either replace "j" with "i" in line 7, or replace "i" with "j" in line 9
+- Remove line 8
+- Remove line 10
+- Remove an extra "p" in "tempp" in line 11
+
+lbctf{jeremy_the_python}
