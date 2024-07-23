@@ -1,0 +1,4 @@
+After reading the description which tells you the password/key is "invincible", run the java program and enter the correct key as mentioned in the description and the correct flag will be printed letter by letter. 
+One could likely reverse engineer the program and figure it out that way, but by reading the description it tells you the password is invincible so its low key easy.
+
+ANSWER: lbctf{r3@dinStruct10n5}
