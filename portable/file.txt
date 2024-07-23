@@ -1,0 +1,124 @@
+%PDF-1.7
+%µµµµ
+1 0 obj
+<</Type/Catalog/Pages 2 0 R/Lang(en-US) /StructTreeRoot 10 0 R/MarkInfo<</Marked true>>/Metadata 19 0 R/ViewerPreferences 20 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Count 1/Kids[ 3 0 R] >>
+endobj
+3 0 obj
+<</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R>>/ExtGState<</GS7 7 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>>
+endobj
+4 0 obj
+<</Filter/FlateDecode/Length 217>>
+stream
+xú≠–;¬@˝‡æ√lØπ≥ıÓ@¨≈ÇÉà¯®.æ≠ì¯›ΩäãC§BBB~#4¡0Ó∑AÕ&ZÌŒHPV*Í.k´pM9õVp‰¨ïpt%‹ Ÿr&›AB+A*Ñ&#Là‰‡ñzç›ÕƒÓ›ôO◊„lÊÌ˝9ígwnÃŸˇn$jÊÀ}seµˆC/€>J¬¨:,ƒŒßk∂Ù#oµOKÚdÕkäº≈¶,&¢Ã)ˇ·˝‡W•ÙRW≥€≥$Xë&*ÇÒ≠†3åÒÖÂ
+endstream
+endobj
+5 0 obj
+<</Type/Font/Subtype/TrueType/Name/F1/BaseFont/TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 6 0 R/FirstChar 32/LastChar 125/Widths 18 0 R>>
+endobj
+6 0 obj
+<</Type/FontDescriptor/FontName/TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] >>
+endobj
+7 0 obj
+<</Type/ExtGState/BM/Normal/ca 1>>
+endobj
+8 0 obj
+<</Type/ExtGState/BM/Normal/CA 1>>
+endobj
+9 0 obj
+<</Author(sorry, you don't get to know my name <3) /Creator(˛ˇ M i c r o s o f t Æ   W o r d   f o r   M i c r o s o f t   3 6 5) /CreationDate(D:20231110153327-05'00') /ModDate(D:20231110153327-05'00') /Producer(˛ˇ M i c r o s o f t Æ   W o r d   f o r   M i c r o s o f t   3 6 5) >>
+endobj
+17 0 obj
+<</Type/ObjStm/N 7/First 46/Filter/FlateDecode/Length 296>>
+stream
+xúmQ—j¬0}¸á˚∑±≠c ¬ò ÜXJ+Ï°¯Î]∂â§)Ëﬂ/wÌ∞_¬97Áúú$"Ü D± ·AÉËubQ8B˚·¢ó LY@Ü9¶∏ø_	sgª“≠kjp[@p L+Y≥\N'Ω%,+Svi˜Ã)∏JvÄ¡5RÏ-Qfå√Ã‘¥ìWÓ»y©¥>ãwπ.O8&ÍcFª	›‹ñÓ ÜËçœ“∆&º¨ıÈAˆ^z47Ã©t¯AÚD∂«Ï˘√ü∫VöÚ≥‰Ü<x”>A:eÙ¿≠Sﬂ“É_ˆeÏÂhÃÂq{û¥g"«%ÓdiÕàøü˝:‚+%kSçy≠N4“ˆÁxYeeÉUuñÜª&]”¸«ÛØõ»Ü⁄¢ßèßüN~ T
+¢ª
+endstream
+endobj
+18 0 obj
+[ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 444 500 444 500 444 333 0 0 0 0 0 278 778 500 500 500 0 333 389 278 500 0 0 0 0 0 480 0 480] 
+endobj
+19 0 obj
+<</Type/Metadata/Subtype/XML/Length 3094>>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:Description rdf:about=""  xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+<pdf:Producer>Microsoft¬Æ Word for Microsoft 365</pdf:Producer></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:creator><rdf:Seq><rdf:li>sorry, you don't get to know my name <3</rdf:li></rdf:Seq></dc:creator></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+<xmp:CreatorTool>Microsoft¬Æ Word for Microsoft 365</xmp:CreatorTool><xmp:CreateDate>2023-11-10T15:33:27-05:00</xmp:CreateDate><xmp:ModifyDate>2023-11-10T15:33:27-05:00</xmp:ModifyDate></rdf:Description>
+<rdf:Description rdf:about=""  xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+<xmpMM:DocumentID>uuid:77E7201A-B4C2-4802-9069-C71F1D71736C</xmpMM:DocumentID><xmpMM:InstanceID>uuid:77E7201A-B4C2-4802-9069-C71F1D71736C</xmpMM:InstanceID></rdf:Description>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+</rdf:RDF></x:xmpmeta><?xpacket end="w"?>
+endstream
+endobj
+20 0 obj
+<</DisplayDocTitle true>>
+endobj
+21 0 obj
+<</Type/XRef/Size 21/W[ 1 4 2] /Root 1 0 R/Info 9 0 R/ID[<1A20E777C2B402489069C71F1D71736C><1A20E777C2B402489069C71F1D71736C>] /Filter/FlateDecode/Length 81>>
+stream
+xú-ÀπÄ@D—Ò^Bî@ﬂê!—
+)!m,f~…|¿Ø5Û?õ∏â=$‚$©äã‰ÃÉà"â,L¸À‚]YôwÈw≤Ã¿\/	.
+endstream
+endobj
+xref
+0 22
+0000000010 65535 f
+0000000017 00000 n
+0000000166 00000 n
+0000000222 00000 n
+0000000486 00000 n
+0000000777 00000 n
+0000000948 00000 n
+0000001184 00000 n
+0000001237 00000 n
+0000001290 00000 n
+0000000011 65535 f
+0000000012 65535 f
+0000000013 65535 f
+0000000014 65535 f
+0000000015 65535 f
+0000000016 65535 f
+0000000017 65535 f
+0000000000 65535 f
+0000001969 00000 n
+0000002218 00000 n
+0000005395 00000 n
+0000005440 00000 n
+trailer
+<</Size 22/Root 1 0 R/Info 9 0 R/ID[<1A20E777C2B402489069C71F1D71736C><1A20E777C2B402489069C71F1D71736C>] >>
+startxref
+5720
+%%EOF
+xref
+0 0
+trailer
+<</Size 22/Root 1 0 R/Info 9 0 R/ID[<1A20E777C2B402489069C71F1D71736C><1A20E777C2B402489069C71F1D71736C>] /Prev 5720/XRefStm 5440>>
+startxref
+6315
+%%EOF

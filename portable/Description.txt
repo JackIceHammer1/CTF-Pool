@@ -1,0 +1,9 @@
+Forensics challenges require manipulating a file in order to extract data from it. Simple forensics challenges might involve reading the metadata or extracting steganography, while more complicated files might involve reading memory blocks.
+
+My friend Ryan sent me this file, but he somehow broke it, and I can't figure out what he did. Can you tell me what he was trying to say?
+
+Example: lbctf{ignatius}
+
+Hint 1: If you're on Windows, you can view file extensions in the File Explorer app by clicking "view" and selecting the "File name extensions" checkbox.
+
+Hint 2: Your computer looks at the extension of a file to figure out what program to use to read it. The ".txt" extension, specifically, opens it to show the raw text. This text can often tell you about the extension that the file was intended to be read with.

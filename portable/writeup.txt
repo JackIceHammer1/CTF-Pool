@@ -1,0 +1,3 @@
+Opening the provided file, we see what looks like code in some markup language. However, at the beginning of the document we can see the letters "PDF", suggesting that that is the file type. We can open the file as a PDF by using the "open with" option and using whatever PDF reader our computer has, or by renaming the file extension to .pdf and double-clicking it.
+
+lbctf{portable_documents}
