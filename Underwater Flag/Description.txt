@@ -1,0 +1,1 @@
+My friend James said he had the flag for me but only gave me this network capture file, he said I have to export it from the HTTP stream somehow? I don't really understand how to though James is way too smart.
