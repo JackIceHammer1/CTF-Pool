@@ -1,0 +1,1 @@
+Extract the password.txt and the .wav file from the nwtwork capture. you have to stego the .wav file with the password "PhantomBonnie" which is encrypted in base64. then convert .ogg to .txt and flag is in plain text lbctf{IveBeenSetFree}
