@@ -1,0 +1,6 @@
+What type of attack involves an attacker intercepting communication between two parties and relaying or altering the messages?
+a) Spoofing
+b) Replay
+c) Man-in-the-middle
+d) Brute force
+e) DDoS

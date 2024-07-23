@@ -1,0 +1,5 @@
+1. a) PGP
+2. c) Man-in-the-middle
+3. d) Retina scan
+4. b) Ensuring that no single individual has complete control over a critical process
+5. c) Keeping security measures secret rather than relying on them for protection

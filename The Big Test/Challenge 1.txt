@@ -1,0 +1,6 @@
+Which of the following cryptographic protocols is commonly used for securing email communication?
+a) PGP
+b) SSL
+c) IPsec
+d) SSH
+e) WEP

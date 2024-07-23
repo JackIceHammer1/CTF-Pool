@@ -1,0 +1,6 @@
+In the context of access control, what does the principle of "separation of duties" aim to achieve?
+a) Limiting access to resources based on user roles
+b) Ensuring that no single individual has complete control over a critical process
+c) Requiring multiple individuals to authenticate before granting access
+d) Encrypting sensitive data to prevent unauthorized disclosure
+e) Implementing strong password policies
