@@ -1,0 +1,4 @@
+embedded message using stegsnow
+apt-get install stegsnow
+stegsnow -C file.txt
+lbctf{Professore Oak}
