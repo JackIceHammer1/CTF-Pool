@@ -1,0 +1,6 @@
+open the pcap file
+search through all the ips
+test them on a great firewall checker
+find the ip thats blocked (162.159.135.232)
+reverse lookup and find it's discord.com
+lbctf{discord.com}

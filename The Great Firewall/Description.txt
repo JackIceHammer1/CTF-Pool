@@ -1,0 +1,2 @@
+I recently got a pcap file from China, but what's unusual is that this user was able to access a site that is blocked by the Chinese Great Firewall. Find out what website the user accessed.
+Example: lbctf{wikipedia.org}
