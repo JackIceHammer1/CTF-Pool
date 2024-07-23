@@ -1,0 +1,28 @@
+Name: The Prime Suspect
+
+Challenge Description: You've come across this story where a member of the Loyola Cyber Club has intercepted a messaged believed to be the key to accessing a bank vault. This member has found that the security system for this vault is based on an old, obscure form of number theory encryption. He was able to extract this series of numbers but can't figure out what they mean.
+
+Intercepted Message: 7719, 7896, 5451, 8256, 5451, 6699, 7031, 7544, 6059, 6536, 6536
+
+Hints (if needed): Reread the Title.
+
+Answer: lbctf{STEVEMORRILL}
+
+Make sure to tell them to put it in LBCTF{} format
+
+
+
+How to Solve:
+S: 83 × 93 = 7719
+T: 84 × 94 = 7896
+E: 69 × 79 = 5451
+V: 86 × 96 = 8256
+E: 69 × 79 = 5451
+M: 77 × 87 = 6699
+O: 79 × 89 = 7031
+R: 82 × 92 = 7544
+I: 73 × 83 = 6059
+L: 76 × 86 = 6536
+L: 76 × 86 = 6536
+
+Take the lower prime number and convert it to ASCII values and put the corresponding letters into correct format.
