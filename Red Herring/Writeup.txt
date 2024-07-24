@@ -1,0 +1,56 @@
+Flag: {ten_thousand_snakeheads}
+
+
+Explanation:
+The image can be downloaded and plugged into a basic online steganography decoder like https://stylesuxx.github.io/steganography/.
+
+Just decrypt each encoded message. Each simple decryption using some of the most common algorithms, so dcode.fr should work smoothly for all. Once each message is encrypted, follow the clues from the false red herrings to build your flag as lbctf{ten_thousand_snakeheads}
+
+The encryption order of the messages is: 
+Fake flag *
+Base64
+Fake duckspeak *
+Morse code
+ROT13
+Affine cipher
+Fake cipher (mashed keyboard) *
+Caesar cipher
+Rail-Fence Cipher
+Ragbaby Cipher
+Nak nak duckspeak
+Autoclave
+AES *
+Atbash
+
+* Not intended to be decrypted or used.
+
+
+Fully decrypted output:
+
+lbctf{come outside.}
+
+This is a red herring. Not just any herring, but a big, fat, juicy red herring. Big enough to feed a family of six. A multiple thousand pound red herring right here. Try something else. Or not. Do what you want. But this is a dead end. 
+
+NakNak nanak! Nak. Nakanak nananak! Nak. Nak? nak nanak, nananak naknak naknaknak?
+
+Just another red herring. This ain't it, big man. Or woman. I don't judge. I'm just a bunch of text!
+
+Congratulations! You found the flag! Nah, just kidding. This is just another red herring. Too bad. Schade. (That's German for "too bad"). You're learning languages now, look at you! You know what you aren't doing, though? Catching anything but these big fat red herrings. Try again bud. 
+
+I'm another red herring. Or am I? Listen, I think I have something that may be useful to you. I'm not sure why, just trust me. Here it is: lbctf{a_b_c}
+
+JAUENHGAO SLUEIOFG AJHFNU UYSD9IGIS H354WNJS WUJ2 EHUFFUIF FHDJW8 KSJ92 NDHDWKEEEE 8 SNC NEUIWYRFV863 DHEI872 FERHVGF43RT
+
+Bearheads, sharkheads, snakeheads, fishheads, brickheads, dirtheads, dirtbags, trashbags, sandbags... wait, what was I saying? Oh, yeah. I'm a red herring :)
+
+TWENTYSEVENMINUSSEVENTEEN
+
+Shhhhhh... I'm not a red herring. Don't tell anyone, but "b" is the twenty-seventh word in the Base 64 herring. Also, the herring above me loves rails and fences. Especially when put together. With a hyphen in between. Rail-Fence. The herring above me is a Rail-Fence cipher. Just... finish the challenge lol
+
+I am not a red herring. I am a duck. But I am still useless to you.
+
+If you somehow cracked this, I am very surprised because this is literally one of the most secure encryption algorithms in the world (AES) and I didn't give you the key or anything. (The key is H!4ytG8%12bJ6aW0 by the way). Anyways, I'm a red herring. You wasted your time.
+
+I may or may not be a red herring. Ahhhh, you caught me, I'm not. What, you want something? Uhhhh... "c" is the third word in the herring encrypted with the classic caesar cipher.
+
+I'm the last herring here. Unfortunately, I'm red. HAHAHA jk I gotchu bro, omg ur face was PRICELESS LMFAOOOOO. Alright, here's the deal: "a" is the answer to the equation in the rail-fence encrypted herring. Three letters. All lowercase.
