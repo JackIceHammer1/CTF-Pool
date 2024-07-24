@@ -1,0 +1,20 @@
+Topsecret Web Explotation Challenge Writeup
+
+Start at the homepage, with a header and navigation bar and a gif. 
+None of the buttons on navigation bar lead anywhere
+
+Clicking on the source code of the site notice that in the index file the gif src directory is /hidden/assets/hacker.gif
+
+Change the url to (superfunwebsitename.com/Topsecret/hidden/) to redirect to the hidden index
+
+While on the hidden index page theres text and another gif.
+When looking at the source code again there is a css file with the directory path, supersecret/file.css
+
+Add to the url Topsecret/hidden/supersecret/ to redirect to the supersecret index
+
+The webpage will now be a login page that has no functionality, looking at the src code again you will find another .css file that links to a different directory
+TOPSECRET/style.css
+
+Change the webpage url one more time to Topsecret/hidden/supersecret/TOPSECRET/ to get to a webpage that says you found the flag and "my favorite color is white" implying the flag is hidden in white text.
+
+Flag = lbctf{I_LUV_HIDDEN_DIRECTORIES}
