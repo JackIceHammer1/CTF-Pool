@@ -1,0 +1,4 @@
+Make a script to remove all empty lines from the file and output used lines into another file.
+
+flag: lbctf{c0lor$}
+line 136761288
