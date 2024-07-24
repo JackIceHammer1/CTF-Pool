@@ -1,0 +1,2 @@
+embeded jpg file. extract with online tools, binwalk, or foremost
+lbctf{The First Kiss That Never Ends}
