@@ -1,0 +1,20 @@
+Name: Sunshine and Rainbows
+
+Description: Attached are two files. "Rainbow.txt" contains 3 entries in a rainbow table, and "Hash.txt" contains a SHA256 hash. Each entry in the rainbow table contains an 8 digit string, "P0" and a 64 digit hash, "Hn". To compute the hash, I: 1. hashed P0, 2: took the first 8 digits of the hash 3: rehashed it and 4: repeated a certain number of times that I won't tell you. The hash in "Hash.txt" is one of the hashes "inbetween" P0 and Hn on one of the rainbow tables. Your challenge is to reverse the sha256 hash in "Hash.txt" (Find the first 8 characters of the entry in the rainbow table before the hash). Please wrap your answer in "lbctf{ANSWER}"
+
+Ex. 
+
+P0 = b186069a -> 
+sha256(b186069) = 26819b3ead37bf26efeb4f53df8d3ebaa0b9d48b10ef239ccf5b5b91af5cd77b -> 
+sha256(26819b3e) = 3b603c52ef2e14e6fa8d67b4b180a4862047762daf72019e77e6bdda548e3213 -> 
+sha256(3b603c52) = e3bbaa3c354dc3d968a5a99e42182a05bcd45773a899a3fce96361c5905d0960
+
+(repeat)
+
+Hint: 
+
+I would use hashlib in python.
+
+Hint 2:
+
+Since the hash is in between one of the P0s and Hns, you could probably hash the first 8 digits of it to find Hn. Then, hash P0 until you find the original hash. Finally, find the first 8 digits of the hash before it!
