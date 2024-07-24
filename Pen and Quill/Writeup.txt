@@ -1,0 +1,2 @@
+You can't do a reverse image search on this one, but if you look at the name of the challenge and the entire picture, you can tell what movie this is from.
+Flag: lbctf{guardians_of_the_galaxy_vol._3}
