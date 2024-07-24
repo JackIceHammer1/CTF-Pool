@@ -1,0 +1,4 @@
+open the png and write the text down
+use steghide to get the cipher key
+put the key in the vignere cipher for the text on the png
+lbctf{slitherman_in_my_thoughts}

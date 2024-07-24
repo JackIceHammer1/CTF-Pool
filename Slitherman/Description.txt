@@ -1,0 +1,3 @@
+My friend keeps yapping about "Slitherman" but lately he's been acting strange... He sent me some goofy png file, not sure what it means.
+Hint: https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+Wrap answer with lbctf{}
