@@ -1,0 +1,9 @@
+The Encryptor encrypts messages by shifting thier decimal values by the decimal value of the key. One way to solve this is to assume that the first letter is a letter, and shift the characters back down, starting with A and ending with z. Look through the list of possible answers and determine which one is most likely the answer.
+
+Title: Try to Remember
+
+Question: One of our clients' employees has forgotten his password. All he can remember is that it starts with a letter and resembles a phrase with a combination of letters and numbers. i.e. Th1$I$@G00DP@$$
+They have provided you with the software they use to encrypt their passowords, along with his encrypted password - "ˆʒːʓˁʨʒ˔ˉʕʓˁʯʕʃ" (quotes not included). NOTE: lbctf{} does not occur in the answer you will find. Please format your answer like
+this: lbctf{YOUR_ANSWER}
+
+Answer: lbctf{d0n1_F0rg31_M3!}
