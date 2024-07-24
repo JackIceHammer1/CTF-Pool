@@ -1,0 +1,13 @@
+Description says "Hard of hearing"
+When looking at the file this will tell you that it is sign language
+Translating it to text you get the message "Hidden Message"
+
+This tells you that there is something hidden in the file
+Use a stego tool to find that there is a picture hidden in the Red Bit layer of the image
+
+You will notice that it is braille
+Translating this to english you get the flag iwishicouldsee
+
+Wrap in lbctf{}
+
+Flag - lbctf{iwishicouldsee}
