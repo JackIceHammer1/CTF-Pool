@@ -1,0 +1,2 @@
+In July of 2019 I went to Hawaii... I took a photo on the plane of some town somewhere and I said, "Wow, it sure does look like a lot of people live there!" Can you find out how many people live in that city?
+Example: lbctf{1,234,567}
