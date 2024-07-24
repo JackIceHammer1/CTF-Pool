@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Social Media Challenge</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <h1>Social Media Challenge</h1>
+        </div>
+        <div id="content">
+            <div id="description">
+                <p id="description-text">Create your social media profile and customize your background!</p>
+            </div>
+            <div id="buttons">
+                <button onclick="changeBackground()">Change Background (POST)</button>
+                <button onclick="resetBackground()">Reset Background (GET)</button>
+                <button onclick="getFlag()">Get Flag (HEAD)</button>
+            </div>
+            <div id="result"></div>
+        </div>
+    </div>
+
+    <script>
+        function changeBackground() {
+            fetch('/change-background', { method: 'POST' })
+                .then(response => response.json())
+                .then(result => {
+                    document.getElementById('result').innerText = result.result;
+                    document.body.style.backgroundColor = getRandomColor();
+                })
+                .catch(error => {
+                    console.error('Error changing background:', error);
+                    document.getElementById('result').innerText = 'An error occurred while changing the background.';
+                });
+        }
+
+        function resetBackground() {
+            fetch('/reset-background', { method: 'GET' })
+                .then(response => response.json())
+                .then(result => {
+                    document.getElementById('result').innerText = result.result;
+                    document.body.style.backgroundColor = '#ffffff'; // Set the background color to white
+                })
+                .catch(error => {
+                    console.error('Error resetting background:', error);
+                    document.getElementById('result').innerText = 'An error occurred while resetting the background.';
+                });
+        }
+
+        function getFlag() {
+            fetch('/get-flag', { method: 'HEAD' })
+                .then(response => response.headers.get('flag'))
+                .then(flag => {
+                    document.getElementById('result').innerText = `Flag: ${flag}`;
+                })
+                .catch(error => {
+                    console.error('Error getting flag:', error);
+                    document.getElementById('result').innerText = 'An error occurred while getting the flag.';
+                });
+        }
+
+        // Function to generate a random color
+        function getRandomColor() {
+            const letters = '0123456789ABCDEF';
+            let color = '#';
+            for (let i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            return color;
+        }
+    </script>
+</body>
+</html>
