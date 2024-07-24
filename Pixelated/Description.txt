@@ -1,0 +1,1 @@
+This pixel file is all binary! I found a Python script online that can decode it but I don't know how to run it.

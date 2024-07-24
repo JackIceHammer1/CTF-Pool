@@ -1,0 +1,2 @@
+put the binary from the file in the script and run
+lbctf{pix314t3d}
