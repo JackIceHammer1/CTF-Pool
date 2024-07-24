@@ -1,0 +1,6 @@
+go to https://nova.astrometry.net/
+upload the file to start analyzing (might take a while)
+it will tell you the longitude and latitude 
+take the values to Google Earth
+
+lbctf{Easter Island}
