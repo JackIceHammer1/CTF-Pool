@@ -1,0 +1,2 @@
+A few years ago I went to Russia... I took a photo on the plane of some town somewhere and I said, "Wow, it sure does look like a lot of people live there!" But the man next to me said "О нет, это лишь небольшой процент их населения." Can you find out for me what percentage of the population in whatever country this is lives in that town? You can check out my boarding pass if you need it.
+Example: lbctf{20-percent}

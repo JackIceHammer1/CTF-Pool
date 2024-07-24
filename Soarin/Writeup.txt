@@ -1,0 +1,5 @@
+extract exif metadata from jpg
+you will find that the photo was taken on 2019 July 25 at 18:05
+since the flight is stockholm to murmansk, if you calculate the flightpath, and since the flight took off at 15:25 according to the ticket, at the time the photo was taken, you should be above oulu, finland
+go to the wikipedia for oulu and you will find that it holds 4 percent of the population in finland
+lbctf{4-percent}
