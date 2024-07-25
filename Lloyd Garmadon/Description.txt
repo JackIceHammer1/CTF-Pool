@@ -1,0 +1,5 @@
+In a web exploitation (web expo) challenge, you analyze and exploit vulnerabilities in websites to find the flag. You can inspect the webpage's source code using commands such as CTRL+SHIFT+I or CTRL+U to search for flags, hidden elements or JavaScript functions.
+
+Lloyd Garmadon has a website, but there's a secret somewhere in the code. What is Lloyd's secret?
+
+Hint: Right click on the page and click the "Inspect" element.
