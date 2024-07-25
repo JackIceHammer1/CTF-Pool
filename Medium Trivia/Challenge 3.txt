@@ -1,0 +1,6 @@
+What is the purpose of a DMZ (Demilitarized Zone) in network security?
+
+a) To block all incoming network traffic
+b) To create a secure area for sensitive data
+c) To isolate and expose certain services to the internet
+d) To encrypt all network communications

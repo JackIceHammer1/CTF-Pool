@@ -1,0 +1,6 @@
+What is the purpose of a mobile device's IMEI (International Mobile Equipment Identity) number?
+
+a) Device authentication
+b) Encrypting stored data
+c) Identifying the device on the internet
+d) Preventing malware attacks

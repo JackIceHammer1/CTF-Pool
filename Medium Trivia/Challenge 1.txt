@@ -1,0 +1,6 @@
+What is a common characteristic of a phishing attack?
+
+a) Exploiting software vulnerabilities
+b) Social engineering to trick users
+c) Network traffic analysis
+d) Physical break-ins

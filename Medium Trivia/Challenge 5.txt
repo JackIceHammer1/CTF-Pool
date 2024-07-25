@@ -1,0 +1,6 @@
+What is the first step in the incident response process?
+
+a) Containment
+b) Identification
+c) Eradication
+d) Recovery

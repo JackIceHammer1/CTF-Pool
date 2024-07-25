@@ -1,0 +1,6 @@
+Which factors are commonly used in two-factor authentication (2FA)?
+
+a) Something you know and something you see
+b) Something you have and something you are
+c) Something you hear and something you feel
+d) Something you like and something you dislike
