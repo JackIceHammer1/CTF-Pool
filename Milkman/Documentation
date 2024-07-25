@@ -1,0 +1,7 @@
+Name: Milkman
+Difficulty: Easy
+Description:
+	The milkman has delivered a fresh batch of milk to you, but the container for the milk is locked shut with a passcode! We’ve managed to pull the executable that checks the passcode off of the lock but we still haven’t found what the passcode actually is. We cannot check the strings of the executable either because there is some kind of obfuscation making them unreadable. Figure out how to open the box so we can consume our daily calcium!
+HINT: There may be a popular program used to obfuscate executables.
+Files:TwoPercent.exe
+Answer:lbctf{qwembo88}
