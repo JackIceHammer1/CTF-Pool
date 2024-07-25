@@ -1,0 +1,6 @@
+Name: Keychain
+Difficulty: Easy
+Writeup:
+	This is a simple java programming challenge where you have to change different variables. There are six differenet strings provided in the attached script.
+At the bottom there is another string variable named lock. Lock is originally set to copy the first key variable. Under the lock variable is a command that prints random letters
+from the key variable. To get the correct output, you must set the lock variable to be equal to the "key4" variable. Once you set that, you are able to run the program giving the correct output.
