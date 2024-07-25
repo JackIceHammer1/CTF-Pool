@@ -1,0 +1,20 @@
+Title: Hidden Data and File Recovery Techniques
+
+Date: 06/01/2023
+Author: J. Doe, Digital Forensics Analyst
+
+1. Steganography Tools Analysis:
+   - Steghide: Robust tool for hiding data within images and audio files. Supports various encryption methods.
+   - OpenStego: Offers a simple GUI and supports random LSB. Limited to PNG and BMP.
+   - StegCracker: Useful for brute-forcing the passwords of Steghide-embedded files.
+
+2. File Corruption and Repair:
+   - JPEGs often start with FF D8 FF. Corruption can prevent images from being displayed properly.
+   - Tools like JPEG Repair Ninja can be used to repair headers and recover images.
+
+3. Encryption and Decryption Techniques:
+   - AES and RSA are commonly used, but custom encryption can be harder to crack.
+   - Keys might be hidden within the file's metadata or other obscure locations.
+
+Conclusion:
+Steganography combined with encryption makes detecting and extracting hidden data challenging. A thorough analysis of file structures and metadata is crucial for any digital forensic investigation.

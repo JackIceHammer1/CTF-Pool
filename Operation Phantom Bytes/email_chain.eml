@@ -1,0 +1,21 @@
+From: analyst@securityfirm.com
+To: leadinvestigator@securityfirm.com
+Subject: Re: Compromised Evidence
+
+Lead,
+
+I've run the 'compromised_evidence.jpg' through our standard recovery tools but hit a wall. I suspect Phantom has used a dual-layer of protection here, likely steganography and encryption. I recall them mentioning 'StegCracker' last week. Maybe that's worth a shot? Or perhaps it's a red herring...
+
+- Analyst J
+
+---
+
+From: leadinvestigator@securityfirm.com
+To: analyst@securityfirm.com
+Subject: Re: Re: Compromised Evidence
+
+Good work, J.
+
+Proceed with caution. Phantom is known for misleading tactics. Double-check the logs for any unusual activity or tools used. And keep an eye out for any hidden partitions or files. We can't afford any oversights.
+
+- Lead Investigator

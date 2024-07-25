@@ -1,0 +1,10 @@
+06/01/2023 14:32 - User Phantom logged in.
+06/01/2023 14:33 - USB device recognized. Device ID: KingstonDataTraveler_3.0
+06/01/2023 14:34 - File 'compromised_evidence.jpg' accessed.
+06/01/2023 14:35 - Network access attempt to IP 192.168.1.15. Port 8080.
+06/01/2023 14:37 - WARNING: Potential malicious activity detected in 'compromised_evidence.jpg'.
+06/01/2023 14:42 - Application 'StegSpy' executed.
+06/01/2023 14:45 - User accessed 'encryption_keys.txt'.
+06/01/2023 14:47 - Unrecognized external IP accessed: 55.76.98.123
+06/01/2023 15:07 - Anomaly detected: Unusual byte pattern 0x0F4A in 'compromised_evidence.jpg'.
+06/01/2023 15:09 - User Phantom logged off.

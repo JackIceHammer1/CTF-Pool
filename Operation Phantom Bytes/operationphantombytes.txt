@@ -1,0 +1,17 @@
+Name: Operation Phantom Bytes
+
+Description: A critical piece in a high profile case against Steve Morrill has been tampered with. A file that was meant to contain crucial data about illegal activities has been corrupted and interspersed with misleading information. Your task is to restore the file to its original state and extract the hidden message.
+
+Files: corrupted_evidence.jpg, decryptor_script.py, email_chain.eml, message.enc, research_notes.docx, system_log.txt
+
+Answer: lbctf{sendhimtojail} || accept LBCTF{sendhimtojail} as well just in case
+
+(I cant remember if you have a file limit or not, but basically, everything other than the first file is just extra and not needed if you need to eliminate some files. Meant to throw them off
+
+
+How to Solve:
+1) If you look in the system Log file, you will see an unknown ip and see that Phantom accessed the compromised_evidence.jpg file
+2) Message.enc holds a messaged encrypted with base64 which when decoded says, "The key to Phantom's plan is hidden in plain sight." This should tell you that Steganography is used somewhere
+3) When looking at the research notes you can see that steghide and jpeg repair tools are brought up. This hints at you using them in some way
+4) After looking at all the files, it should become clear that the answer lies somewhere in the compressed_evidence file. When you try to open it, you realize it is corrupted. You will want to open it using a HexEditor like HxD. Every JPG file always starts with FF D8 FF. You will realize that this one starts with FF D7 FF, so in order to make in launch, you have to change the D7 to D8.
+5) After you get the file loaded, you have to use a steganography decoder like steghide or any online tool to get the hidden message. There is no password for this challenge.
