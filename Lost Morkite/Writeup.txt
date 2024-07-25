@@ -1,0 +1,17 @@
+The opening paragraph is exposition.
+The first cipher is a Homophonic Cipher, as hinted at by "some music term about texture," which if you are to google that
+phrase, you will find all of the -phonics. The only one that is a real cipher, however, is homophonic.
+After decoding the cipher, you will get the password: "ROCKANDSTONE3", which you are told to input into the M.U.L.E.
+
+This step is steganography, with ROCKANDSTONE3 being the password. The appropriate image to use this password for
+is Molly.jpg. Once you decrypt the message, you will get:
+
+	We should have known, those pointy-eared leaf lovers stole our Morkite!
+	All they left was this:
+	.-.. . .- ..-. .-.. --- ...- . .-. ... ....- . ...- .- ....
+	Crack it, tell us what it is, and we'll get you your drink. Management 
+	can handle the loss.
+
+This is morse code, which when translated, gives you "LEAFLOVERS4EVAH" which is the password for another stego, this one 
+on the Glyphid Slammer.jpg image. After decoding, you will get the flag, which is:
+lbctf{FOR_KARL!}
