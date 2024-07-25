@@ -1,0 +1,7 @@
+Each of the of two-line segments are a phrase encoded with RSA.
+While the competitor can decode all of them, only the last one contains the flag.
+In order to decode, the competitor will need to download the image at the bottom
+and use a steg tool to discover the public and private key.
+
+Once found, they user can then decode the RSA text to receive the flag
+Flag: lbctf{f1yY0uFOoL5}
