@@ -1,0 +1,5 @@
+use and exif editor online
+you will get coordinates to where the photo is
+the street is szewska
+google it and on wikipedia it shows the length
+lbctf{270-meters}
