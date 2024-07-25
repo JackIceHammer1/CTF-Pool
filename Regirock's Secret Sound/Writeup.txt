@@ -1,0 +1,3 @@
+Put the mp3 into a spectrogram analyzer to find the flag hidden in the audio waves.
+
+lbctf{HiddenInSound}
