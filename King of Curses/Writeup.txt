@@ -1,0 +1,1 @@
+Look in the .js file to find the login info, you also have to change the cookie "sorcerer" to true. Then using hints on the student chatroom you have to use a tool like dirbuster to find the /Music directory. In here you look at the alt text for the audio to get the flag.
