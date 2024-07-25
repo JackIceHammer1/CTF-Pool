@@ -1,0 +1,5 @@
+Operator! Operator! I need you to write a program that:
+1. Takes two integer inputs
+2. Adds the two inputs together
+3. Multiplies the two inputs together
+4. Output the sum and products
