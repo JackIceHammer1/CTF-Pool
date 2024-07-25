@@ -1,0 +1,2 @@
+Find the username and password in the main page, the Golden Treasure House, and the Green Irish Pub. The username and password is encrypted so unencrypt it using the Gold-Bug Cipher. Then navigate to Magic Store and enter the username and password.
+lbctf{yOUc378auGHT9387mE28}

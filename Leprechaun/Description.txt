@@ -1,0 +1,8 @@
+Help the Leprechaun find his treasure at the end of the rainbow. He has lost his most prized possession, the FLAG! In order to help him find the flag, you must accompany him on his journey and find the flag together!
+Acess by entering using this URL: https://leprechaun.w3spaces.com/index.html
+Make sure to wrap the flag in lbctf{}
+Example: lbctf{uyg63297tuhbewd3097y} 
+
+Hint: Leprechauns love placeholders
+Hint: The Leprechauns favorite number is 830 
+Hint: Images look cool
