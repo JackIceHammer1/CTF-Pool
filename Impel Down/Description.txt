@@ -1,0 +1,1 @@
+We recently had some unusual activity on our prisoner dashboard, some of the picture weren't loading and the background image kept dissapearing, my IT lackey said it was because some text was spread around, can you find that text and submit it here?

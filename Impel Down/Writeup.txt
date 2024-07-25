@@ -1,0 +1,3 @@
+The flag is divided into three parts across the HTML and CSS
+
+The first part is in the comment in the HTML, second part is in the CSS in a comment, and the third part it in the alt text for the crocodile picture
