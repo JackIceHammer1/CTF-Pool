@@ -1,0 +1,9 @@
+The image is "enderwalk" language, and can be decrypted on a few different sites, such as dcode.
+
+It decrypts to "wrds w imgs" as a hint towards stego.
+
+Stego-ing the img reveals the main encrypted string: ECUOLLCKWF
+
+This is a slidefair cipher (bigram/fair hint) with the keyword "NOT ME", which decrypts to the flag,
+
+lbctf(praiseyoba}
