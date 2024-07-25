@@ -1,0 +1,6 @@
+What up Rotato Chip. Can you write a code that will:
+1. Take an input for an alphabetical string
+2. Encode an inputed string in ROT13
+3. Print the encoded string
+
+ROT13 Explanation: https://en.wikipedia.org/wiki/ROT13#:~:text=ROT13%20(%22rotate%20by%2013%20places,was%20developed%20in%20ancient%20Rome.
