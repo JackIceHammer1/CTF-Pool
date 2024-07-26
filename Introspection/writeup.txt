@@ -1,0 +1,5 @@
+username and password are in the javascript:
+u: JamesKeller
+p: LeagueOfLegendsIsMyFavGame
+
+once you login it just gives you the flag
