@@ -1,0 +1,4 @@
+My friend threw my treasure into the nether and the piglins won't give it back. I tried asking but all they responded with 
+was some image of a portal. Pls help me i want my stuff back.
+
+Format: lbctf{MESSAGE}

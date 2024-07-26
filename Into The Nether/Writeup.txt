@@ -1,0 +1,6 @@
+Stego the image to see the rgb values and the hidden message in the top left corner. 
+This is a pigpen cipher, which you can figure out and decode by googling anything remotely close to that.
+	- For example, "Pigman cipher" and "Piglin cipher" both give pigpen cipher as the first result.
+The message, when translated, comes out to be:
+
+The final flag is lbctf{COMETHROUGH}
