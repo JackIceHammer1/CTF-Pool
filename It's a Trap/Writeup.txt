@@ -1,0 +1,2 @@
+Reverse image search it on Google Images and find "https://www.starwars.com/databank/aki-aki". Scroll to the description of Aki-Aki and you'll find the planet they are located on.
+Flag: lbctf{pasaana}

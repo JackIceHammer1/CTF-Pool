@@ -1,0 +1,2 @@
+The First Order needs help finding the Millenium Falcon. The crew of the Milennium Falcon needs to answer for their crimes agains the First Order and they need to pay. For us to be able to do this, we need to know what planet it is on.  
+Example of the flag: lbctf{boat_keyboard}
