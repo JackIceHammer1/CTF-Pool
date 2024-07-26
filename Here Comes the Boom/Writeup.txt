@@ -1,0 +1,8 @@
+Google "What was the day before India launched Soyuz T-11" and 
+
+Go to https://porterctf.my.canva.site/ and there will be a password 
+
+Enter 421984
+
+Get the flag
+Flag:lbctf{USAUSA}
