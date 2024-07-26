@@ -1,0 +1,12 @@
+You made it! Now you have sufficient knowledge of how to browse between file directories on websites!
+For your troubles, the flag is: lbctf{Website_Beast}
+
+If you ever get stuck, here are some common file names:
+robots.txt - tells "robots" which pages to crawl or not to crawl
+humans.txt - provides information about the people and techniques behind the site
+index.html - the first file called upon if the only the domain name is entered
+login.html - could be used for a login page
+flag.html - for ctf challenges
+flag.txt - for ctf challenges
+
+Have fun on your travels!
