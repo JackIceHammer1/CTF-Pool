@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="favicon.jpg">
+    <title>Freddy Fazbear's Pizzeria CCTV Login</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+    <script src="script.js"></script>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body onload="setCookie()">
+    <div class="container">
+      <form action="CameraFeeds/index.html" onsubmit="return authenticate()">
+        <div class="title">Security Camera Login</div>
+        <div class="input-box underline">
+          <input type="text" placeholder="Username" required id = "username">
+          <div class="underline"></div>
+        </div>
+        <div class="input-box">
+          <input type="password" placeholder="Password" required id = "password">
+          <div class="underline"></div>
+        </div>
+        <div class="input-box button">
+          <input type="submit" name="" value="Continue">
+        </div>
+      </form>
+        
+    </div>
+    <button id = "reset" type="button" onclick="window.location.reload(); resetCookie()" >Reset Webpage</button>
+  </body>
+</html>
