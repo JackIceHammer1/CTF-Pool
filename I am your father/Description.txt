@@ -1,0 +1,2 @@
+The Rebellion needs your help to defeat the Galactic Empire. The Rebellion has given you a hint on what they need to defeat the Empire, find the flag and the Empire is defeated. 
+Flag example: lbctf{hacker_man}

@@ -1,0 +1,7 @@
+Go to any stego website and upload the image in there, copy and paste the image into the website and get the message in the website
+
+Go to dcode and indentify the cipher as ASCII Code
+
+Decode it and get the flag
+
+Flag: lbctf{A New Hope}
