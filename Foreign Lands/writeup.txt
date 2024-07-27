@@ -1,0 +1,13 @@
+This is fun one.
+
+So you start with: "ZJATXLNBPXZNBPXZNBBEZNCP"
+this is a rozier cipher, which you need a key and an alphabet
+the key is: "HELLO" which you get from the qr code
+the alphabet is in the imagem which is pokemon unown language
+alpabet is "MGBYQJPFVZCUDKTHILXWSOENAR"
+
+decrypting the rozier will get you: "BCACACBBBABBBBABBBABBBCB"
+this is a triliteral cipher
+
+decrypting that will get you: "punemneq"
+this is rot-13, which will decrypting into the flag "charzard"

@@ -1,0 +1,8 @@
+I found a crashed alien ship, from a land called "Alola". There is a heavily encrypted message within, and I need help decrypting it. There were some english hints within that I think might help you. 
+
+The first is some weird looking black and white square, with the message "the KEY is in the square" on it. Weird.
+
+The second hint was oddly specific. It said, "I was in a conference with an French Cryptologist while making my master cipher!! He gave me the idea to hide the second piece needed for my master cipher in my native tounge" That could be useful. (i took a picture of it and labeled it ciphertextpiece2.png for your convience)
+
+Cipher text within the ship: 
+ZJATXLNBPXZNBPXZNBBEZNCP
