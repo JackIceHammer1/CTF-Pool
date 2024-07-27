@@ -1,0 +1,1 @@
+Copy index source into vscode and use replace to replace every instance of "success.html" and find the one that wasn't replaced and go to that link
