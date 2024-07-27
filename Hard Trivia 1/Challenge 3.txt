@@ -1,0 +1,6 @@
+Which cybersecurity framework is developed by the National Institute of Standards and Technology (NIST)?
+
+a) ISO/IEC 27001
+b) CIS Critical Security Controls
+c) COBIT
+d) NIST Cybersecurity Framework

@@ -1,0 +1,6 @@
+What is a common way to help protect devices connected to the company network?
+
+a) Only use laptops and other mobile devices with full-disk encryption.
+b) Change your smartphone setting to let your devices connect automatically to public Wi-Fi.
+c) Let guests and customers use the same secure Wi-Fi that you use.
+d) Use the router's pre-set password so you won't forget

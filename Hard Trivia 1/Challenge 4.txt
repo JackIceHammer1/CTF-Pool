@@ -1,0 +1,6 @@
+What feature of blockchain technology ensures the integrity and immutability of data?
+
+a) Decentralization
+b) Smart contracts
+c) Hashing
+d) Public-key cryptography

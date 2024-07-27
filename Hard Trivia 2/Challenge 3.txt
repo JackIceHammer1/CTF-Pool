@@ -1,0 +1,6 @@
+What is the term for software that appears to be legitimate but is actually malicious
+
+a) Spyware
+b) Adware
+c) Scareware
+d) Ransomware

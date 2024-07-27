@@ -1,0 +1,6 @@
+Which legislation in the United States requires companies to disclose data breaches that involve personal information?
+
+a) HIPAA
+b) GDPR
+c) CCPA
+d) HITECH Act

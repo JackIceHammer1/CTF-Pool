@@ -1,0 +1,6 @@
+Which biometric factor is based on the unique patterns of the retina?
+
+a) Fingerprint
+b) Iris
+c) Facial recognition
+d) Voice

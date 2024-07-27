@@ -1,0 +1,6 @@
+What is the purpose of cyber threat intelligence?
+
+a) To secure physical premises
+b) To collect and analyze information about cyber threats
+c) To encrypt communication channels
+d) To monitor social media for security threats

@@ -1,0 +1,6 @@
+What is a rootkit?
+
+a) A type of malware that encrypts files and demands a ransom
+b) A hardware device used for secure key storage
+c) A collection of tools that grant unauthorized access and hide the presence of malicious software
+d) A secure container for storing cryptographic keys

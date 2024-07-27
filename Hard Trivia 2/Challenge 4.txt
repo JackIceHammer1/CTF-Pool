@@ -1,0 +1,6 @@
+Which encryption method is commonly used to protect data stored in the cloud?
+
+a) AES
+b) RSA
+c) DES
+d) MD5

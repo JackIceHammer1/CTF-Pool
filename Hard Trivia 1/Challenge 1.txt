@@ -1,0 +1,5 @@
+Before connecting remotely to the company network, your personal device should meet the same security requirements as company-issued devices.
+True or False?
+
+a) True
+b) False
