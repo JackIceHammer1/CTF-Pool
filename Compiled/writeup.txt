@@ -1,0 +1,4 @@
+Upon opening the challenge, we see a file named compiled.exe. It doesn't do anything if we run it. Upon using a decompiling tool like Resource Hacker to look in the cabinet section of its data, we find its payload.
+This contains the command "m_sg %username% i-d3compiled-1t", which, if fixed, is Batch script that will send the current user a message with the text "i-d3c0mpiled-1t". Enclose this in lbctf{} brackets.
+
+lbctf{i-d3c0mpiled-1t}

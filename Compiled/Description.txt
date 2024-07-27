@@ -1,0 +1,3 @@
+My friend sent me an executable, but it won't run. Can you tell me the message he wanted me to have?
+
+The flag for this challenge won't be in the regular format. To submit, add lbctf{} brackets around the answer. For example, if the flag is ignatius, submit lbctf{ignatius}.
