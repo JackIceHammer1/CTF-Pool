@@ -1,0 +1,2 @@
+I forgot my password :(. I found the encoded password and the encoder, but I can't decode it. Can you help me?
+Encoded Password: }oTPyrá{v|gdm

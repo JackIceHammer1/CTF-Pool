@@ -1,0 +1,5 @@
+Reverse Engineering
+Given an encoded string and have to use the encoder.cpp to decode it
+Given string: }oTPyrá{v|gdm
+Have to understand C++ and how characters work in it.
+Flag: lbctf{aCryPTo}
