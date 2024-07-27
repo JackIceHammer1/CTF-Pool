@@ -1,0 +1,2 @@
+go to robots.txt in the url
+lbctf{f0rtn1t3_b4tt13_r0y413}
