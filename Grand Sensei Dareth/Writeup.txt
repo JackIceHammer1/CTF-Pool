@@ -1,0 +1,4 @@
+fix the code by adding () to the end of line 13
+run the python program in VSCode with the folder open
+search through the terminal until you find the only intelligible word
+lbctf{greenninja}

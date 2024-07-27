@@ -1,0 +1,1 @@
+the Ninjas got lost on a mission trying to fight Garmadon. Dareth and his Mojo Dojo ninjas are out to find one ninja left in Ninjago City. Garmadon accidentally left a list of suspicious codes behind. Dareth tried to write a Python script to decode it, but he's bad at coding. Fix the code and find the ninja.
