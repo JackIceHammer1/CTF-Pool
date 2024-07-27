@@ -1,0 +1,3 @@
+I was recently at port in a city and I took this wonderful photo, can you help me find out what street I was on when I took it?
+
+Format: lbctf{Wall Street}
