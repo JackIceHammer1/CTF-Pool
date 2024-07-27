@@ -1,0 +1,5 @@
+open the pw file and put the text in a rot8000 decoder
+replace the pw file contents with the real password which is goobermeister
+run the python script
+you should get the flag
+lbctf{g00bertr0n_1s_c001}
