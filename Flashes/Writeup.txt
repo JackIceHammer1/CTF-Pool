@@ -1,0 +1,3 @@
+This is a reverse engineering java based program. Whenever you run the file, random numbers flash on the screen then disapear. These numbers respond to the "key" or the substrings that you are supposed to enter. To get the flag, you have to decompile the jar file, bring the code into vscode / alternatives and this to the bottom. System.out.println(str.substring(26, 27)+str.substring(53,45)); and keep going until you list every number
+
+lbctf{flash_flash}
