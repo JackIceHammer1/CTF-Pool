@@ -1,0 +1,8 @@
+Which command creates an ACL to block ftp traffic from the 192.168.0.0 /24 Network to the 13.45.67.2 /16 network
+
+A. Router(config)#ip access-list 99 deny ftp 192.168.0.0 255.255.255.0 ftp 13.45.67.2
+B. Router(config)#access-list 101 deny udp 192.168.0.0 0.0.0.255 eq ftp 13.45.67.2 0.0.255.255
+C. Router(config)#access-list 100 deny tcp 192.168.0.0 0.0.0.255 eq ftp 13.45.67.2 0.0.255.255
+D. Router(config)#ip access-list 101 deny  tcp 192.168.0.0 0.0.0.255 eq ftp 13.45.67.2 0.0.255.255
+
+Answer: C

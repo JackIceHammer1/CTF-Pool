@@ -1,0 +1,1 @@
+Answer is A, this is because AAA command syntax is "aaa authentication [LIST] [authentication method]"

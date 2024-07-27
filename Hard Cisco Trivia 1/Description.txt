@@ -1,0 +1,8 @@
+What is the command to set up AAA authentication for logins using the SSH-LOGIN list using local AAA? (Assume "aaa new-model" has already been issued)
+
+A. Router(config)#aaa authentication login SSH-LOGIN local
+B. Router(config)#aaa authentication login default SSH-LOGIN local
+C. Router(config)#aaa authorization exec SSH-LOGIN local
+D. Router(config)#aaa authentication enable default group SSH-LOGIN local
+
+Answer: A

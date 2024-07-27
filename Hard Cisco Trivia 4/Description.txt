@@ -1,0 +1,19 @@
+Which command pair creates a PAT pool with addresses 192.168.0.1-25 and a pool name of PAT-POOL with an ACL number of 15? 
+
+A. 
+    Router(config)#ip nat pool PAT-POOL 192.168.0.1 192.168.0.25
+    Router(config)#ip nat inside source list 15 pool PAT-POOL overload
+
+B.
+    Router(config)#ip nat PAT-POOL 192.168.0.1-25
+    Router(config)#ip nat inside source list 15 pool PAT-POOL
+
+C.
+    Router(config)#ip nat pool PAT-POOL 192.168.0.1 192.168.0.25
+    Router(config)#ip nat inside source list 15 pool PAT-POOL
+
+D.
+    Router(config)#ip nat pool PAT-POOL 192.168.0.1 192.168.0.25
+    Router(config)#ip nat inside source access-list 15 pool PAT-POOL overload 
+
+ANSWER: A

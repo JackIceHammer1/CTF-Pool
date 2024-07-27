@@ -1,0 +1,8 @@
+Which command adds a isakamp key of "JamesKellerDaBest" for VPNs on Cisco Routers with a peer of 192.168.0.1 /24
+
+A. Router(config)#crypto isakamp key JamesKellerDaBest address 192.168.0.1 0.0.0.255
+B. Router(config)#crypto isakamp key JamesKellerDaBest address 192.168.0.1 255.255.255.0
+C. Router(config)#crypto isakamp client configuration group 192.168.0.1 255.255.255.0 key JamesKellerDaBest
+D. Router(config)#crypto isakamp key JamesKellerDaBest address 192.168.0.0
+
+Answer: B

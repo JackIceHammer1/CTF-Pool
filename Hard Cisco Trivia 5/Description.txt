@@ -1,0 +1,20 @@
+Which command pair creates an etherchannel pair on ports FastEthernet0/3 and FastEthernet0/4 with a channel group number of 3 and enables PAgP unconditionally
+
+A. 
+    Switch(config)#int range fa0/3-4
+    Switch(config-if-range)#channel-group 3 mode auto 
+
+B. 
+    Switch(config)#int range FastEthernet0/3-FastEthernet0/4
+    Switch(config-if-range)#channel-group three mode PAgP
+
+C. 
+    Switch(config)#int fa0/3-4
+    Switch(config-if-range)#channel-group 3 mode active
+
+D. 
+    Switch(config)#int range fa0/3-4
+    Switch(config-if-range)#channel-group 3 mode desireable
+
+
+Answer: D
