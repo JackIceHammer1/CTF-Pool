@@ -1,0 +1,6 @@
+Search the website, when you mouse over Godfrey it says he keeps his plans at /assets/BattlePlans
+go to that directory and read index, it tells you to find out where a photo is taken,
+there is a comment thats says "Taken at:" and then decimal numbers, convert 
+the decimal to ASCII to get the flag
+
+lbctf{HoarahLoux}
