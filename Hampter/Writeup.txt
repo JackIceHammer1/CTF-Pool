@@ -1,0 +1,5 @@
+Reverse image search the image to find the name 'Minsc', which is the password. Use a stegonography decoder 
+for jpg images to decode the image using the password and it will give you the flag.
+
+
+lbctf{go_for_the_eyes!}
