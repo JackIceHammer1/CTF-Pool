@@ -1,0 +1,13 @@
+WRITEUP
+
+The Description really gives the user no information, except for the fact that "I" love flightless birds.
+The chicken.pdf is an absolute red herring, which gives no value information except for that fact that I found
+that pdf online while "researching." However, the other text file called ilovebirds.txt has a less amount of 
+chicken words, and this can be interpreted as a well known esoteric programming language, which wikipedia 
+defines as, "a programming language designed to test the boudaries of computer programming language design, 
+as a prood of concept, as software art, as a hacking interface to another langue, or as a joke." In this case,
+the chicken programming language is a joke. When someone looks up "chicken programming language," the first link 
+is: https://esolangs.org/wiki/Chicken which when they scroll down the page will see that the same amount of chicken
+words corresponds to the word "Cat." Wrap that bad boy in lbctf{} and call it a day.
+
+ANSWER: lbctf{Cat}
