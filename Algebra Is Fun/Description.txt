@@ -1,0 +1,2 @@
+Jimbo was seaching on his friend larry's computer when he came accross his math homework. One of the problems had a python script attached to it named algebra.py. You are tasked with finding the correct answer, aka the flag. 
+Example: lbctf{78236gjkhs827362lkdhfluh}
