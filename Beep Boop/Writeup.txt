@@ -1,0 +1,5 @@
+Reverse image search
+Find https://collider.com/empire-strikes-back-luke-yoda-gentle-giant-mini-bust-images/
+Ctrl+F search for "Dagobah"
+You found your flag
+Flag: lbctf{dagobah}

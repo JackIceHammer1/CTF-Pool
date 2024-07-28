@@ -1,0 +1,2 @@
+The Galactic Empire needs help finding Master Yoda of the Jedi Order. One of our probe droids sent us this picture of him and a high-value target from Tatooine named Luke Skywalker. We are enlisting your services to help us find both of them so that they can answer for their crimes against the Galactic Empire and it's Senate. Can you tell us what planet is this picture is from? 
+Example of the flag: lbctf{boat}
