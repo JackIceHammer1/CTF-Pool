@@ -1,0 +1,5 @@
+An alien spaceship landed on earth but we could not get into it before they left all we found was a flash drive with their password check. We need the correct password. We also know they left a flag but we can't find it.
+
+HINTS: Maybe try disassembling it 
+HINTS: I wonder what the correlations between the arrays and the strings are 
+HINTS: this might help https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
