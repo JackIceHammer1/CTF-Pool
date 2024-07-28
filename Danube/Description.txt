@@ -1,0 +1,10 @@
+OSINT (Open Source Intelligence) is a type of challenge that you solve using info from publicly accessible sources. In OSINT challenges, you uncover hidden details, do online searches, reverse image searches, and connect pieces of infomation scattered across the internet together to find a flag.
+
+What city is this and what country is it?
+
+Hint: Reverse image searching is a technique where you input an image to find related or similar images on the internet, helping identify the source, context, or additional information about the picture.
+Hint 2: Try using a reverse image searcher such as Google Images (Watch a YouTube video if need help using Google Reverse Image Searcher)
+
+Wrap answer with lbctf{} and format in lowercase with the spaces between words as underscores.
+
+Example: lbctf{madrid_spain}
