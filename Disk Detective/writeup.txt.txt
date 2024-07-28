@@ -1,0 +1,9 @@
+1.)
+- gzip -d the file on linux to unzip it
+- use fls -r (filename) to view the contents of the disk drive.
+- We know we must find Connor's password, and that this is a linux hard drive, so we can deduce that it might be in shadow.txt.
+- use icat to view the shadow files contents. 
+- Once you have a file with just the shadow hash for connors password, run the command "john (hashfilename) -format=crypt"
+- the flag is user Connors password, "Password1"
+
+FLAG = "Password1"

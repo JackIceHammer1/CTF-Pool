@@ -1,0 +1,6 @@
+My friend Connor locked himself out of his linux system. He sent me a copy of his disk drive, and wants me to find his password for him, but I can't seem to figure it out. Please help me!
+
+The flag is the password; Ex: lbctf{password}
+
+HINT: Use "gzip -d" to unzip the disk image file.
+HINT: My friend JOHN said he might be able to help...
