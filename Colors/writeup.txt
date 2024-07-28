@@ -1,0 +1,4 @@
+We are presented with a square full of colorful pixels. Upon looking more closely, the RGB of each pixel has a red value of either 0 or 255. Treating 255 as 1 and 0 as, well, 0, we can create a binary string going from left to right in each line. (This can be scripted. However, I had to put it together by hand, so you can write that yourself.)
+
+Decrypt the binary:
+lbctf{c0lors_and_pix3ls_and_a1l}
