@@ -1,0 +1,3 @@
+My friend is on vacation is South America, he sent me this cool drone shot he got, but do you know what statue this even is!? You could try using a reverse image search maybe...
+Format answer in lowercase with underscores and wrap with lbctf{}
+Example: lbctf{statue_of_liberty}
