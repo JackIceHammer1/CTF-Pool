@@ -1,0 +1,8 @@
+open up the page and play the video
+because its a song about robots, go to /robots.txt
+you will get the path to the english lyrics at /jimaku/lyrics-en.txt
+open up that path and read them
+at the middle, theres a link for /seebu.sps
+download that and open it (its a mega man save file)
+you will find the flag in there at the top
+lbctf{uddo_man_ga_taosenaiyo}

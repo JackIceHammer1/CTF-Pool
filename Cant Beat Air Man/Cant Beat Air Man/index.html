@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>エアーマンが倒せないよ！！</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="video-container">
+      <video id="musicVideo" controls>
+        <source src="airman.mp4" type="video/mp4" />
+        あの竜巻何回やってもよけれない
+      </video>
+    </div>
+    <div class="lyrics-container">
+      <pre id="lyrics"></pre>
+    </div>
+  </body>
+  <script>
+    window.addEventListener("load", () => {
+      fetchLyrics("lyrics-ja.txt"); // 普通な字幕｜僕はフォルダーで英語の字幕をおく、フォルダーはウエッブサイトでだって知らないよ
+    });
+
+    function fetchLyrics(filename) {
+      fetch(filename)
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          return response.text();
+        })
+        .then((text) => {
+          document.getElementById("lyrics").textContent = text;
+        })
+        .catch((error) => {
+          console.error("Error fetching the lyrics:", error);
+        });
+    }
+  </script>
+</html>
