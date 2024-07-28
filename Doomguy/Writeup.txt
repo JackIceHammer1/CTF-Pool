@@ -1,0 +1,5 @@
+Difficulty: Easy
+open the file and search for the word "mid"
+the .exe is supposed to mislead you
+you might need to use notepad++
+Answer: lbctf{Doom_is_a_mid_game}
