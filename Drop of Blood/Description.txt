@@ -1,0 +1,4 @@
+There's a drop on blood on our flag in a town that we don't know...
+Example: lbctf{san_francisco}
+Hint: Coordinate (1,1) is the pixel in the bottom left corner of the photo.
+Hint: https://en.wikipedia.org/wiki/Cartesian_coordinate_system#/media/File:Cartesian-coordinate-system.svg

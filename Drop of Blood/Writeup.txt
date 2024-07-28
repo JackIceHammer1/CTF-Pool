@@ -1,0 +1,5 @@
+find the coordinates of the red dot on the photo
+it should be (45, 21)
+go to google maps and put in those coords
+you get a town called banatski karlovac in serbia
+lbctf{banatski_karlovac}
