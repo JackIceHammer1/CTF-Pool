@@ -1,0 +1,4 @@
+Requires the user to either make a bash script sending curl requests or a selenium python script.
+lbctf{Xno7B6WsKb}
+
+POC in solution.py
