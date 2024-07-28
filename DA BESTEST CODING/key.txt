@@ -1,0 +1,42 @@
+show = print()
+perchance = if
+BIG = >
+BIGand = >=
+SMOL = <
+SMOLand = <=
+is = ==
+hav = "="
+da = initalize variable
+havand = +=
+havles = -=
+chunk = substring
+havanan = ++
+havlele = --
+in = /
+an = +
+le = -
+by = *
+dist = len()
+or = else
+wen = while
+showndown = println
+
+purple = green
+purple = greenyellow
+print: greenyellow
+purple = enyell
+purple = lleyne
+pink = 13
+print: greenyellow13
+pink  = 14
+pink = 7
+blue = 6
+blue = 42
+print: greenyellow1342
+print: GREENYELLOW1342LLEYNE
+indigo = I LUV COLORS!!!
+cerulean = I LUV
+maroon = UVRS!!!
+turquoise = !!!SRVU
+print: GREENYELLOW1342LLEYNE!!!SRVU
+print: GREENYELLOW1342LLEYNE!!!SRVUL0I1 2L3U4V5 6C
