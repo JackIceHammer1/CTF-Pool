@@ -1,0 +1,7 @@
+Web Exploitation
+
+Given index.html
+A simple webpage that has the definition for parameter, a hint for finding the flag.
+To get the flag, add "?flag=true" to the end of the url and the javascript will display the flag at the bottom of the text.
+
+Flag: lbctf{paramarama}
