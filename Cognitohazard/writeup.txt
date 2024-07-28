@@ -1,0 +1,3 @@
+A typeless file is given. The description hints at the fact that it is written in Brainfuck. Upon running it in a Brainfuck compiler, a succession of numbers are given, which are ASCII numerical code for the flag. Alternatively, the Brainfuck decrypting tool at dCode.fr/brainfuck-language returns the letters of the flag.
+
+lbctf{0w_my_br41n}
