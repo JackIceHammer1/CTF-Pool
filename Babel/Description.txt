@@ -1,0 +1,5 @@
+Then they said, "Come, let us build ourselves a city and a library with its top in the heavens, and let us make a name for ourselves; otherwise we shall be scattered abroad upon the face of the whole earth."
+
+The flag for this challenge won't be in the regular format. To submit, add lbctf{} brackets around the answer. For example, if the flag is ignatius, submit lbctf{ignatius}.
+
+Image credit: "Tower of Babel" by fimoculous is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/?ref=openverse.
