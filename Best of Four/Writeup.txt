@@ -1,0 +1,2 @@
+literally just base64
+lbctf{cole_is_the_best_ninja}

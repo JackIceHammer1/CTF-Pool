@@ -1,0 +1,6 @@
+Cryptography challenges involve decoding secret messages and breaking encrypted codes or ciphers. You can use various methods like frequency analysis, substitution ciphers, or advanced decryption techniques to find flags.
+
+Can you figure out which ninja from Ninjago is the best?
+
+Hint: Base64 is a simple encoding method used to represent binary data as ASCII text, often used for data transmission or storage in a human-readable format.
+Hint 2: https://www.dcode.fr/cipher-identifier
