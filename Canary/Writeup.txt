@@ -1,0 +1,3 @@
+lbctf{Weihenstephan}
+
+Enhance the image top right corner and pull the street name.
