@@ -1,0 +1,3 @@
+I discovered this code running on my PC, but I'm unsure of its purpose. Can you tell me the contents of the EAX register at the end of the code?
+
+Note: The flag should be in decimal format. For instance, if the EAX register contains 0xF, the corresponding flag would be lbctf{15}.

@@ -1,0 +1,45 @@
+Just break down the code from top to bottom.
+
+these are defined in the first part 
+using the MOV command which set the first value equal to the second one 
+the DWORD PTR [rbp-0x#] this is a memory location
+it uses the mov    DWORD PTR [rbp-0x4], 0xEBCE
+this puts the hex 0xEBCE into that location 
+it set the following values
+rsi = 0x5383A
+edi = 0x3F11E
+DWORD PTR [rbp-0x5] =  0x5383A
+then on line 9 it compares the edi and rsi registers
+<main+17>:    cmp    edi, rsi
+the jg is jump is jumps if greator but the value of edi is not bigger then the values of rsi so it does not jump
+<main+18>:    jg     <main+29>
+jump if greater; this will be skipped becuase edi is not bigger then rsi 
+<main+20>
+the imul command is  multiplication it does rsi times DWORD PTR [rbp-0x5] = 0x5383A * 0x14EAA = 0x6D2D30284
+imul   rsi, DWORD PTR [rbp-0x5] 
+rsi = 0x6D2D30284 
+<main+36>
+idiv   rsi, DWORD PTR [rbp-0x4]
+this divids the values of the rsi by DWORD PTR [rbp-0x4]
+rsi / DWORD PTR [rbp-0x4] 
+29306847876 / 60366
+rsi = 0x5383A = 485486
+<main+41>:
+mov    eax, DWORD PTR [rbp-0x34]
+this sets eax to 0x3F11E
+eax = 0x3F11E
+<main+42>
+then adds rsi to eax
+add    rsi, eax
+rsi + eax
+0x5383A + 0x3F11E = 0x92958
+and puts the rsi values into eax
+<main+44>
+last it multiply eax by 0x932
+eax * 0x932 
+this gives 0x543E2B30 
+eax = 0x543E2B30 = 1413360432
+0x543E2B30 in binary is 1413360432
+lbctf{1413360432}
+
+lbctf{1413360432}
