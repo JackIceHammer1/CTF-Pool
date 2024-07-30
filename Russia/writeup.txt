@@ -1,0 +1,4 @@
+Solution:
+Decode original message using unicode shift
+Decode result of unicode shift using rot-47
+flag: lbctf{R@_rA_Ra5pUt1n}
