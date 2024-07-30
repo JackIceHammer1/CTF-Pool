@@ -1,0 +1,7 @@
+That password you sent us changed! 
+Our Client told us something about years?
+Also, We only have a shadow file this time
+
+
+Answer:
+You need to Download john rules, and append them to the john.conf file. also, create a passwd file
