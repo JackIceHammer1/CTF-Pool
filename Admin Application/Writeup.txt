@@ -1,0 +1,7 @@
+extract powerpoint into folder
+keep going through the hidden folder
+make sure to turn on hidden folders under view
+filepath is hidden\dont go here\turn back\English 8
+open grammar notes
+search for lbctf
+lbctf{i_need_to_work_on_grammar_first}
