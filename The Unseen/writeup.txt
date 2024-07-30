@@ -1,0 +1,1 @@
+Writeup: run a nmap http-enum scan on the webserver and you cand find the hidden directory. Change url, hightlight the page and find the hidden html text that's in white
