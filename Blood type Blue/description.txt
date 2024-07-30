@@ -1,0 +1,15 @@
+Shinji! Nerv has been comprimised by the 11th angel, Ireul. We are trying to regain control of the Magi system so we can launch the evaneglions. Our main login has been heavily encrypted and we can't begin to attempt to break it without access to the magi. 
+
+Help us decrypt our login shinji or I'll kick you out. We asked a famous internet personality, "Vsauce" if he recongized the cipher, and he said he had seen something similar before, but could not figure it out. He was able to break the cipher down into 4 parts at least. He also was able to extract a png from the angel (labeled SHINJI.png for your convience)
+
+The weirdest part about this whole thing is that somewhere within the angel's encryption, the hebrew alphabet was found. Don't know how that could be relevant.
+
+Encrypted login: 6652268739527096865648165230054072164520909510762491399843
+
+1: [Ne] 3s2 3p3 [Xe] 4f11 6s2 [Ne] 3s2 3p4 [Ne] 3s2 3p3 [Xe] 4f11 6s2 [Kr] 4d7 5s1 [Ne] 3s2 3p4
+2: [Ne] 3s2 3p4 [Rn] 5f3 6d1 7s2 L 1s2 2s2 2p5 [Rn] 5f3 6d1 7s2 R
+3: [Ar] 4s2 [Kr] 5s1 1s2 2s2 2p4 1s2 2s2 2p3
+4: 28.62 y, 20% active
+
+Format the flag in all caps
+example: lbctf{EXAMPLE}

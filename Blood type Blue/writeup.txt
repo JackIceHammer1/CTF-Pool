@@ -1,0 +1,24 @@
+Lots of fun here. Shocker I used so much chem. Lets get into it.
+
+The first 3 values are electron configurations, and decrypt into:
+1: phosphorus
+2: sulfur
+3: carbon
+
+The 4th value is a little more fun. What I'm getting at is half-life calculation. When you calculate the half life using the 28.62 for the age in years and 20% for the activity, you get a half-life of 12.32 years. An isotop of HYDROGEN has a half like of 12.32 years
+ 
+So,
+1: p
+2: s 
+3: c 
+4: h
+
+These are used in the first level on encryption, which is the mexican army cipher (vsauce hint). You need the position of the 4 wheels in order for this to work. The positions are the p, s, c, h.
+
+When decrypted it yields: Property of Nerv TFVEKISXYZMTEAI
+
+The TFVEKISXYZMTEAI is the Atbash cipher (point of the hebrew hint)
+
+That decrypts to GUEVPRHCBANGVZR
+
+That is simiply ROT-13, which decrypts into the flag "THRICEUPONATIME"
