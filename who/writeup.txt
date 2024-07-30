@@ -1,0 +1,12 @@
+It's a steg picture. 
+Use a steg tool to decode the image like
+https://stylesuxx.github.io/steganography/
+
+Find the base64 string among the other strings
+QWggc28gY2xvc2UhIFlvdSBhcmUgcHJldHR5IG11Y2ggdGhlcmUhIEFsbCB5b3UgaGF2ZSB0byBmaWd1cmUgb3V0IGlzIHlvcGdze0FCX0JBUl9ORlhSUX0=
+
+decodes to 
+Ah so close! You are pretty much there! All you have to figure out is yopgs{AB_BAR_NFXRQ}
+
+Rot13 the yopgs part
+lbctf{NO_ONE_ASKED}
