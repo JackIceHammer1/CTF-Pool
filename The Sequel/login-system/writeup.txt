@@ -1,0 +1,3 @@
+lbctf{N0_Pa$$w0rD_N3c3$$Ary}
+SQL Inject password field with ' OR '1'='1
+
