@@ -1,0 +1,26 @@
+The program takes an input and turns it into binary, using the length of the input to determine the number of bits for each number.
+The binary flag is 220 bits long.
+The offset_generate() function selects the number of bits
+
+For 10, it assigns 6
+For 11, it assigns 5
+For 20, it assigns 11
+The check_offset() function ensures that the number has no remainder.
+This process leaves only a few possible numbers to decode the binary."
+
+I wrote this python to decode it 
+
+def binary_to_text(binary_string, length):
+    text = ""
+    for i in range(0, len(binary_string),length):
+        binary_char = binary_string[i:i+length]
+        decimal_value = int(binary_char, 2)
+        text += chr(decimal_value)
+    print(text)
+    return text
+
+x="0000110110000001100010000011000110000111010000001100110000011110110000110001000000110001000011011100000011000000001110010000011110010000101111100000110001000011100110000101111100001100110000001110000000110111000001111101"
+for i in range(1,15):
+	binary_to_text(x, i)
+
+flag lbctf{b1n0ry_1s_f8n}
