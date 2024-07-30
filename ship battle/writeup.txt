@@ -1,0 +1,3 @@
+Beat the game of battleship by inputting numbers that correspond to the ocean where a single ship lies
+Destroy the ship to receive the flag.
+lbctf{dunderberg}
