@@ -1,0 +1,42 @@
+<form action="dfhjvgmoejfhgveji.html" onsubmit="return authenticate()">
+    <label for="username">Username</label>
+    <input
+      id="username"
+      type="text"
+      placeholder="Enter Username"
+      name="username"
+      required
+    />
+    <label for="password">Password</label>
+    <input
+      id="password"
+      type="password"
+      placeholder="Enter Password"
+      name="password"
+      required
+    />
+    <button type="submit">Submit</button>
+  </form>
+  
+  <script>
+  
+ 
+    function authenticate(){
+      var authorised;
+      
+
+      var username = document.getElementById("username").value;
+      var password = document.getElementById("password").value;
+      
+
+      if(username == "username" || username == "admin"){
+        authorised = true;
+      }else{ 
+        authorised = false;
+
+        alert("Sorry, password is incorrect.");
+      }
+   
+      return authorised;
+    }
+  </script>

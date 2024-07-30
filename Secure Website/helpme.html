@@ -1,0 +1,42 @@
+<!-- Include the CryptoJS library -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+<script>
+  const iv = CryptoJS.lib.WordArray.random(16);
+
+  const decryptedMessage = CryptoJS.AES.decrypt("U2FsdGVkX18Gsruk54GSi2oh5O5k7ZPYNvymgLH34W/ZUv4NwawDst7M/zXiugw3", "MySecretKey123456", { iv: iv}).toString(CryptoJS.enc.Utf8);
+
+</script>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+	<script>
+		function login() {
+			// Get the input values
+			const username = document.getElementById("username").value;
+			const password = document.getElementById("password").value;
+
+			// Check the username and password
+			if (username === "admin" && password === "password") {
+				alert("lbctf{" + decryptedMessage + "}");
+			} else {
+				alert("Invalid username or password");
+			}
+		}
+	</script>
+</head>
+<body>
+	<h1>Login Page</h1>
+	<form>
+		<label for="username">Username:</label>
+		<input type="text" id="username" name="username"><br><br>
+		<label for="password">Password:</label>
+		<input type="password" id="password" name="password"><br><br>
+		<input type="button" value="Login" onclick="login()">
+	</form>
+</body>
+</html>
+
