@@ -1,0 +1,3 @@
+Fix all the syntax errors then run
+The flag will display in the output
+lbctf{triskaidekaphobia}
