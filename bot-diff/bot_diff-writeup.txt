@@ -1,0 +1,8 @@
+Download the image file rat.jpg
+
+Prompt mentions "META" use metadata image viewer on the attatched image like https://jimpl.com/
+
+Look through the details and find "I_was_h1d1ng" in the image description
+Wrap answer with lbctf{XXXXX}
+
+Flag: lbctf{I_was_h1d1ng}
