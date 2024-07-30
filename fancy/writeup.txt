@@ -1,0 +1,5 @@
+Use Fernet library from Cryptography package
+Python file needs access to pip installer
+Use decrypt function to input the key to decipher the message in the python file
+Variables need to be in byte form in order to work
+lbctf{h3Ad_3mp1ie0_O}
