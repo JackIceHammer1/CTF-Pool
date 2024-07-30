@@ -1,0 +1,7 @@
+The image2 is the same as image1 but the RGB values are shifted up/down, based on if it would overflow the limit of 255. Each square corresponds to a different RGB shift, which corresponds to an ASCII character.
+
+Name: picpuzz
+
+Question: image2 has been changed from image1 by shifting its RGB values. Use an image editing software to see by how much it has been changed, and convert each shift to ASCII to get the flag. There is one value per color.
+
+Answer: lbctf{iluVm0xi3}
