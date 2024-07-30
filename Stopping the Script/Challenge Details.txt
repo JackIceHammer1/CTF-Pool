@@ -1,0 +1,7 @@
+The PHP file "form.php" redirects you to lbc2.org unless you disable javascript, and then it gives the flag.
+
+Name: Stopping the Script
+
+Question: I keep trying to access the flag, but something is redirecting me. Do you know how to disable the redirects? (P.S. I would use Chrome)
+
+Answer: lbctf{r3d1r3cts_r_@nnoying!}
