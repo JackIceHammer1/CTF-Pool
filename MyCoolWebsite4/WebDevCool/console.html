@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <script>
+  if(localStorage.getItem("html") == "undefined"){
+      localStorage.setItem("html", "");
+  }
+
+  </script>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Dunder Mifflin Infinity</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body bgcolor = "white">
+    <div class="console">
+			<form action="authenticate.php" target="_blank" method="post">
+				<textarea rows=120 cols = 120 type="text" name="code">
+<html>
+  <head>
+    <title>Dunder Mifflin Infinity</title>
+  </head>
+  <body>
+  </body>
+</html>
+</textarea>
+				<input type="submit" name="button" value="Test">
+			</form>
+    </div>
+  </body>
+</html>
