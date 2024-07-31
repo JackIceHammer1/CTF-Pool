@@ -1,0 +1,2 @@
+Directory browsing challenge. Open website to index.html, have to know to browse to flag.html.
+Flag: lbctf{Certified_Bag_Chaser}
