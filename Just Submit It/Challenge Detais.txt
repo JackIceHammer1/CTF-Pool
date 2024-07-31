@@ -1,0 +1,7 @@
+Name: Just Submit It
+
+Description: Looks like the flag is behind a login page. Just log in and get the flag!
+
+Just reenable the button and inputs.
+
+Flag: lbctf{1_r@n_out_0f_f1@g_1d3@s}
