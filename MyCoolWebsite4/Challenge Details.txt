@@ -1,0 +1,24 @@
+You are given a text box in which to place HTML code. Follow the directions and hit submit to recieve a flag. However, the grading system is slightly iffy, so keep that in mind.
+
+<html>
+<head>
+<title>Dunder Mifflin Infinity</title>
+</head>
+<body>
+<h1>Dunder Mifflin Infinity</h1>
+<a href='/home.html'>Home</a>
+<a href="/shop.html">Shop</a>
+<a href="/cart.html">Cart</a>
+<h2>Welcome to Dunder Mifflin Infinity!</h2>
+<img src="logo.png">
+<h3>Dwights Paper Picks</h3>
+<img src="glossystock.jpg">
+<img src="legalpaper.jpg">
+<img src="collegeruled.png">
+<h6>Ⓒ 2000-2015 <br> Talk to a representative: (443)-797-3842</h6>
+</body>
+</html>
+
+Name: MyCoolWebsite4
+Question: Ryan needs some help with his website. Can you do it?
+Answer: lbctf{c@11_it_duND3r_m1fflinf1n1ty}
