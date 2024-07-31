@@ -1,0 +1,5 @@
+Once you start the program, you will only have 1000 dollars, but you need way more in order to buy the flag.
+You will have to use either of the 2 withdraw money choices in order to remove so much money that you
+exceed the negative integer value in java and the variable will loop back to positive, allowing you to buy the flag.
+
+Flag: lbctf{g3T_Ur_f1@g5}
